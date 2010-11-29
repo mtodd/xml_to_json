@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{xml_to_json}
-  s.version = "0.0.0"
+  s.version = "0.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Matt Todd"]
-  s.date = %q{2010-11-13}
+  s.date = %q{2010-11-29}
   s.description = %q{Transforms a string of XML into a string of JSON}
   s.email = %q{chiology@gmail.com}
   s.files = [
